@@ -8,6 +8,8 @@ To not search every time
 ## Python
 * [Awasome python](https://github.com/vinta/awesome-python?tab=readme-ov-file#readme)
 * [Raylib](https://www.raylib.com/)
+* [How to vens](https://python.land/virtual-environments/virtualenv)
+
 ## Linux links
 * [grep command](https://linuxize.com/post/how-to-use-grep-command-to-search-files-in-linux/)
 * [Linux terminal file managers](https://www.tecmint.com/linux-terminal-file-managers/)
