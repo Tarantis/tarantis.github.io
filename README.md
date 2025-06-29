@@ -4,6 +4,7 @@
 To not search every time
 
 * [About MD](Chat.openai.com/?AIPRM_PromptID=1783779979377762304)
+* [How to repair pyhton pip](https://stackoverflow.com/questions/75608323/how-do-i-solve-error-externally-managed-environment-every-time-i-use-pip-3)
 
 ## Linux links
 * [grep command](https://linuxize.com/post/how-to-use-grep-command-to-search-files-in-linux/)
