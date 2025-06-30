@@ -10,7 +10,7 @@ To not search every time
 * [Raylib](https://www.raylib.com/)
 * [How to vens](https://python.land/virtual-environments/virtualenv)
 
-## Linux links
+## Linux
 * [grep command](https://linuxize.com/post/how-to-use-grep-command-to-search-files-in-linux/)
 * [Linux terminal file managers](https://www.tecmint.com/linux-terminal-file-managers/)
 * [How to swap ctrl with CapsLock](https://opensource.com/article/18/11/how-swap-ctrl-and-caps-lock-your-keyboard)
